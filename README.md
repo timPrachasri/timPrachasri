@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">Blockchain Enthusiast, Tech Lead, Agile and DDD Advocate</h3>
+<h3 align="center">Fintech Enthusiast, Tech Lead, Agile and DDD Advocate</h3>
 
 - 🌱 I’m currently learning **DDD, Functional Programming, Rust**
 
